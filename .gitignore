@@ -1,7 +1,9 @@
 *.exe
 *.obj
 *.o
+*.vcxproj.user
 .vs/
 Release/
 x64/
 Debug/
+res/
